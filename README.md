@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=10&color=5F9EA0&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Welcome+to+my+Github+Profile!!&repeat=false" alt="Typing SVG" />
+</p>
+
+
 # 👨‍💻 Setu Patel | Computer Engineer  
 
-Welcome to my GitHub! I'm a **Computer Engineering** student passionate about **Software Development**, **Web Development**, and **DevOps**. I’m currently focused on building scalable applications and exploring cloud technologies to enhance my skill set.  
+I'm a **Computer Engineering** student passionate about **Software Development**, **Web Development**, and **DevOps**. I’m currently focused on building scalable applications and exploring cloud technologies to enhance my skill set.  
 
 ---
 
 ## 🚀 About Me  
+
 - 🎓 **B.Tech in Computer Engineering** (3rd Year)  
 - 💡 Interested in **DevOps**, **Cloud Computing**, and **Full-Stack Development**  
 - 🌱 Currently learning **AWS**, **Docker**, **Kubernetes**, and **CI/CD**  
@@ -13,12 +19,12 @@ Welcome to my GitHub! I'm a **Computer Engineering** student passionate about **
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔧 Tools & Technologies  
 
 ### **Languages**  
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="60" height="30" style="margin-right: 15px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="90" height="30" style="margin-right: 150px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="90" height="30" style="margin-right: 15px;" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="105" height="30" />
 </p>
 
@@ -72,13 +78,13 @@ Welcome to my GitHub! I'm a **Computer Engineering** student passionate about **
 
 ---
 
-## 📫 Connect with Me  
+## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/setu-patel-3b922b278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="90" height="30" style="margin-right: 50%;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="90" height="30" style="margin-right: 15px;" />
   </a>
   <a href="https://github.com/Setu3011">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="90" height="30" style="margin-right: 1500px;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="90" height="30" style="margin-right: 15px;" />
   </a>
   <a href="mailto:setupatel3011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="90" height="30" />

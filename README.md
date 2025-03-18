@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a **Computer Engineering** student passionate about **
 
 ### **Languages**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="100" height="40" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="80" height="25" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="100" height="40" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120" height="40" style="margin: 10px;" />
 </p>

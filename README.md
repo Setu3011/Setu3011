@@ -5,8 +5,8 @@
 
 # 👨‍💻 Setu Patel | Computer Engineer  
 
-I'm a **Computer Engineering** student passionate about **Software Development**, **Web Development**, and **DevOps**. I’m currently focused on building scalable applications and exploring cloud technologies to enhance my skill set.  
-
+I'm a **Chodu Engineering** student passionate about **Software Development**, **Web Development**, and **DevOps**. I’m currently focused on building scalable applications and exploring cloud technologies to enhance my skill set.  
+ 
 ---
 
 ## 🚀 About Me  

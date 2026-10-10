@@ -11,7 +11,7 @@ I'm a **DevOps Engineering** student passionate about **Cloud Architecture**, **
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech in Computer Engineering** (3rd Year)  
+- 🎓 **B.Tech in Computer Engineering**  
 - 💡 Interested in **DevOps**, **Cloud Computing**, and **Full-Stack Development**  
 - 🌱 Currently learning **AWS**, **Docker**, **Kubernetes**, and **CI/CD**  
 - 💻 Proficient in **Java**, **Python**, **JavaScript**, **SQL**, and **MongoDB**  
